@@ -1,0 +1,29 @@
+[0m[[0mdebug[0m] [0m[naha] The riscv.io_Alu source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	rs1_31d24, rs2_31d24, rs2_7d0, rs1_15d8, rs2_23d16, rs2_15d8, rs1_23d16, rs1_7d0.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) riscv.io_Alu: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) riscv.io_Alu.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /root/ChiselProject/code/src/test/scala/dspAluTest.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The riscv.dspAlu source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	rs1_31d24, rs2_31d24, rs2_7d0, rs1_15d8, rs2_23d16, rs2_15d8, rs1_23d16, rs1_7d0.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) riscv.dspAlu: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) riscv.dspAlu.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /root/ChiselProject/code/src/test/scala/dspAluTest.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(riscv.io_Alu,ModifiedNames(regularNames = rs1_31d24, rs2_31d24, rs2_7d0, rs1_15d8, rs2_23d16, rs2_15d8, rs1_23d16, rs1_7d0, implicitNames = )), NamesChange(riscv.dspAlu,ModifiedNames(regularNames = rs1_31d24, rs2_31d24, rs2_7d0, rs1_15d8, rs2_23d16, rs2_15d8, rs1_23d16, rs1_7d0, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
